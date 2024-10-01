@@ -1,4 +1,6 @@
-**A Knight's Tale**
+_**A Knight's Tale **
+_**VR Game
+**-----------------------------------------------------------------------------------------
 
 
 Demo Video:
@@ -24,3 +26,5 @@ After completing the training course, or the first level, the second level loads
 When the goblins get close enough to the player, they begin to attack. All goblins, except for the last one—the boss—deal 1 HP (health point) of damage to the player with each hit, and all goblins have 3 HP. The player, on the other hand, has 10 HP. If the player loses all HP in battle, a Game Over scene appears, featuring a button to restart the level.
 
 If the player defeats all the goblins and conquers the boss enemy, upon approaching the door behind the boss, the game is completed. At that point, a scene appears allowing the player to either restart the game or exit.
+
+The game was made in a few days, together with my coleague Kliment Shukanov.
